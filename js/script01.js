@@ -24,7 +24,7 @@ switch(jogadores) {
 
         case 'Carlos Alberto Torres' :
                 res.innerHTML = `<h1>Carlos Alberto Torres</h1> <br> <p> Carlos Alberto torres Fez 40 Gols pelo Santos sendo Lateral/Zagueiro. <p> <p> jogos no Santos nos anos: 1965 - 1971, 1971 - 1974. <p> Pelo Santos Carlos Alberto conquistou: 2 Campeonatos Brasileiros, 5 Campeonatos Paulista, 1 Rio-sp, 1 Recopa Mundial, 1 Supercopa sul americana. `
-                img.setAttribute('src', 'imagens/jogadores/')
+                img.setAttribute('src', 'imagens/jogadores/carlos alberto.jpg')
                 break;
 
         case 'Juary' :
@@ -49,7 +49,7 @@ switch(jogadores) {
 
                         case 'Leo' :
                             res.innerHTML = `<h1>Leo</h1> <br> <p> Fez 20 Gols pelo Santos sendo Lateral. <p> <p> Jogou pelo Santos nos anos de: 2000 - 2005, 2009 - 2014. <p> <p> Leo Conquistou pelo Santos: 2 Brasileiros, 1 Copa Do Brasil, 1 Libertadores, 1 Recopa sul Americana, 3 Campeonatos Paulistas. `
-                        img.setAttribute('src', 'imagens/jogadores/leo.webp')
+                        img.setAttribute('src', 'imagens/jogadores/leo.jpg')
                         break;
 
                             case 'Neymar' :

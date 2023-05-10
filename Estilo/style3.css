@@ -49,6 +49,7 @@ header {
 
 header p {
     font-family: var(--fonte-padrao);
+    color:black;
 }
 
 

@@ -12,7 +12,7 @@ function pesquisar () {
             img.setAttribute('src', 'imagens/times/santos60s.jpg')
             break;
         case 'Santos FC 2002 - 2004' :
-          res.innerHTML = "<h1>Santos FC 2002 - 2004</h1> <br> <p> Titulos Conquistados: 2 Campeonatos Brasileiros. Foi Finalista da Libertadores 2003. </p> <p> Grandes feitos desse time: Deixou o legado do Futebol Alegre (Meninos da Vila).</p> <p> Time Base: Fábio costa (mauro); Maurinho (Paulo César), Alex (Leonardo), André Luis (Ávalos) e Léo; Paulo Almeida (Fabinho), Renato (Preto Casagrande), Elano e Diego (Ricardinho); Robinho e Alberto (Deivid). Técnicos: Leão e Luxemburgo. </p>"
+          res.innerHTML = "<h1>Santos FC 2002 - 2004</h1> <br> <p> Titulos Conquistados: 2 Campeonatos Brasileiros. </p> <p> Grandes feitos desse time: Deixou o legado do Futebol Alegre (Meninos da Vila), Foi Finalista da Libertadores 2003.</p> <p> Time Base: Fábio costa (mauro); Maurinho (Paulo César), Alex (Leonardo), André Luis (Ávalos) e Léo; Paulo Almeida (Fabinho), Renato (Preto Casagrande), Elano e Diego (Ricardinho); Robinho e Alberto (Deivid). Técnicos: Leão e Luxemburgo. </p>"
           img.setAttribute('src', 'imagens/times/santosfc2002s.jpg')
           break;
         case 'Santos FC 2010 - 2012' :

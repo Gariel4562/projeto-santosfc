@@ -18,7 +18,7 @@ switch(jogadores) {
         break;
 
         case 'Pepe' :
-            res.innerHTML = `<h1>Pepe</h1> <br> <p> Fez 405 Gols pelo Santos (Sendo o Terceiro maior artilheiro da história do Clube.) <p> <p> Pepe jogou no Santos 1954 - 1969. <p> Pelo Santos Pepe Conquistou: 6 Campeonatos Brasileiros, 2 Libertadores, 1 Recopa Mundial, 1 Supercopa sul Americana, 2 Mundiais, 4 Rio-sp, 11 Campeonatos Paulistas. <p>   `
+            res.innerHTML = `<h1>Pepe</h1> <br> <p> Fez 405 Gols pelo Santos (Sendo o Segundo maior artilheiro da história do Clube.) <p> <p> Pepe jogou no Santos 1954 - 1969. <p> Pelo Santos Pepe Conquistou: 6 Campeonatos Brasileiros, 2 Libertadores, 1 Recopa Mundial, 1 Supercopa sul Americana, 2 Mundiais, 4 Rio-sp, 11 Campeonatos Paulistas. <p>   `
             img.setAttribute('src', 'imagens/jogadores/pepe.jpg')
             break;
 
